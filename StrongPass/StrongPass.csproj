@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>StrongPass</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Ollie Day</Authors>
+    <Description>Middleware that validates passwords against a blacklist.</Description>
+    <ReleaseNotes>See https://github.com/OllieDay/StrongPass/releases</ReleaseNotes>
+    <Copyright>Copyright 2018 (c) Ollie Day</Copyright>
+    <PackageTags>Password;Security;Validation;Identity</PackageTags>
+    <LicenseUrl>https://github.com/OllieDay/StrongPass/LICENSE</LicenseUrl>
+    <ProjectUrl>https://github.com/OllieDay/StrongPass</ProjectUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.0.1" />
+  </ItemGroup>
+</Project>
