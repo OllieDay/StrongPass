@@ -2,16 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>StrongPass</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <Version>1.0.1</Version>
     <Authors>Ollie Day</Authors>
     <Title>StrongPass</Title>
     <Description>Middleware that validates passwords against a blacklist.</Description>
-    <ReleaseNotes>See https://github.com/OllieDay/StrongPass/releases</ReleaseNotes>
     <Copyright>Copyright 2018 (c) Ollie Day</Copyright>
     <PackageTags>Password;Security;Validation;Identity</PackageTags>
-    <LicenseUrl>https://github.com/OllieDay/StrongPass/LICENSE</LicenseUrl>
-    <ProjectUrl>https://github.com/OllieDay/StrongPass</ProjectUrl>
+    <PackageLicenseUrl>https://github.com/OllieDay/StrongPass/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/OllieDay/StrongPass</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
