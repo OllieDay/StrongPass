@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -6,7 +6,7 @@
     <Authors>Ollie Day</Authors>
     <Title>StrongPass</Title>
     <Description>Middleware that validates passwords against a blacklist.</Description>
-    <Copyright>Copyright 2018 (c) Ollie Day</Copyright>
+    <Copyright>Copyright 2018-2019 (c) Ollie Day</Copyright>
     <PackageTags>Password;Security;Validation;Identity</PackageTags>
     <PackageLicenseUrl>https://github.com/OllieDay/StrongPass/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/OllieDay/StrongPass</PackageProjectUrl>
